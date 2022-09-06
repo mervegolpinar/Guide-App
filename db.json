@@ -1,0 +1,20 @@
+{
+  "myDirectory": [
+    {
+      "id": 1,
+      "name": "Test Kayıt 1",
+      "phone": 5550000001
+    },
+    {
+      "id": 2,
+      "name": "Test Kayıt 2",
+      "phone": 5550000002
+    },
+    {
+      "id": 3,
+      "name": "Test Kayıt 3",
+      "phone": 5550000003
+    }
+    
+  ]
+}
